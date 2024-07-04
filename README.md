@@ -3,7 +3,7 @@
 I'm an aspiring software engineer on a journey through code. I specialize in crafting web applications and designing captivating websites.
 🔭 **Currently Seeking Opportunities: I'm actively looking for new roles where I can contribute my skills and learn from exciting projects.**
 
-🎯 **Here are a few Technologies I've had my hands on:
+🎯 **Here are a few Technologies I've had my hands on:**
 • Programming Languages: Python, JavaScript
 • Front End: HTML, CSS, JavaScript, React.js
 • Back End: Python, Flask
