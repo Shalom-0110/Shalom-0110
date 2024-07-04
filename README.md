@@ -1,16 +1,18 @@
-## Hi there 👋
+**Hi there**👋
 
-<!--
-**Shalom-0110/Shalom-0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software engineer on a journey through code. I specialize in crafting web applications and designing captivating websites.
+🔭 **Currently Seeking Opportunities: I'm actively looking for new roles where I can contribute my skills and learn from exciting projects.**
 
-Here are some ideas to get you started:
+🎯 **Here are a few Technologies I've had my hands on:
+• Programming Languages: Python, JavaScript
+• Front End: HTML, CSS, JavaScript, React.js
+• Back End: Python, Flask
+• Databases: MySQL
+• Others: Git basics, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎈 **More About Me:**
+I love the process of learning, constantly upskilling, and building solutions that have a potential positive impact on absolutely anyone.
+Outside of coding, I enjoy singing, playing music, penning down my thoughts in the form of poetry, driving cars, playing badminton, and Taekwondo.
+
+📫 Let's Connect:
+LinkedIn: shalom-k
