@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋I'm Shalom</h1>
 
-I'm an aspiring Software Developer Engineer on a journey through code. I specialize in crafting web applications and designing captivating websites.
+I'm an aspiring Software Development Engineer on a journey through code. I specialize in crafting web applications and designing captivating websites.
 <br>
 🔭 **Looking for opportunities in software roles to contribute my skills and gain new experiences from exciting projects.**
 <h2 align="center">🎯 Here are a few Technologies I've had my hands on:</h2>
