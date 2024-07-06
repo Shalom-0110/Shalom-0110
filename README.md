@@ -12,7 +12,7 @@ I'm an aspiring Software Development Engineer on a journey through code. I speci
 
 🎈 **More About Me:**
 I love the process of learning, constantly upskilling, and building solutions that have a potential positive impact on absolutely anyone.
-Outside of coding, I enjoy singing, playing music, penning down my thoughts in the form of poetry, driving cars, playing badminton, and Taekwondo.
+Outside of coding, I enjoy singing, playing guitar and piano, penning down my thoughts in the form of poetry, driving cars, playing badminton, and Taekwondo.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
