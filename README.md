@@ -6,8 +6,8 @@ I'm an aspiring Software Development Engineer on a journey through code. I speci
 <h2 align="center">🎯 Here are a few Technologies I've had my hands on:</h2>
 - Programming Languages: Python (DSA and OOP), JavaScript <br>
 - Front End: HTML, CSS, JavaScript, React.js <br>
-- Back End: Python, Flask <br>
-- Databases: MongoDB basics <br>
+- Back End: Python, Flask, Node.js, Express.js <br>
+- Databases: MongoDB basics, MySQL basics <br>
 - Others: Git basics<br>
 
 🎈 **More About Me:**
