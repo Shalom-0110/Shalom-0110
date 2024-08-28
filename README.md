@@ -7,7 +7,7 @@ I'm an aspiring Software Development Engineer on a journey through code. I speci
 - Programming Languages: Python (DSA and OOP), JavaScript <br>
 - Front End: HTML, CSS, JavaScript, React.js <br>
 - Back End: Python, Flask, Node.js, Express.js <br>
-- Databases: MongoDB basics, MySQL basics <br>
+- Databases: MongoDB (CRUD), MySQL basics <br>
 - Others: Git basics<br>
 
 🎈 **More About Me:**
