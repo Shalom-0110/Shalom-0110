@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋I'm Shalom</h1>
 
-I'm an aspiring Software Development Engineer on a journey through code. I specialize in crafting web applications and designing captivating websites.
+Just a tech fanatic on a journey through code. I specialize in crafting web applications and designing captivating websites.
 <br>
 🔭 **Looking for opportunities in software roles to contribute my skills and gain new experiences from exciting projects.**
 <h2 align="center">🎯 Here are a few Technologies I've had my hands on:</h2>
@@ -12,7 +12,7 @@ I'm an aspiring Software Development Engineer on a journey through code. I speci
 
 🎈 **More About Me:**
 I love the process of learning, constantly upskilling, and building solutions that have a potential positive impact on absolutely anyone.
-Outside of coding, I enjoy singing, playing guitar and piano, penning down my thoughts in the form of poetry, driving cars, playing badminton, and Taekwondo.
+Outside of coding, I enjoy singing, playing guitar and piano, creating poetry, driving cars, playing badminton, and Taekwondo.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
