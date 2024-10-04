@@ -12,7 +12,7 @@ Just a tech fanatic on a journey through code. I specialize in crafting web appl
 
 🎈 **More About Me:**
 I love the process of learning, constantly upskilling, and building solutions that have a potential positive impact on absolutely anyone.
-Outside of coding, I enjoy singing, playing guitar and piano, creating poetry, driving cars, playing badminton, and Taekwondo.
+Outside of coding, I enjoy singing, playing guitar and piano, writing poetry, driving cars, playing badminton, and Taekwondo.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
