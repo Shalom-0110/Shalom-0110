@@ -3,6 +3,7 @@
 Just a tech fanatic on a journey through code. I specialize in crafting web applications and designing captivating websites.
 <br>
 🔭 **Looking for opportunities in software roles to contribute my skills and gain new experiences from exciting projects.**
+<br>
 **🎯 Here are a few Technologies I've had my hands on:**
 - Programming Languages: Python (DSA and OOP), JavaScript <br>
 - Front End: HTML, CSS, JavaScript, React.js, Vue.js <br>
