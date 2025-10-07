@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋I'm Shalom</h1>
+<h1 align="center">Hi👋I'm Shalom</h1>
 
 Just a tech fanatic on a journey through code. I specialize in crafting web applications and designing captivating websites.
 <br>
