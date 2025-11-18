@@ -1,15 +1,15 @@
 <h1 align="center">Hi👋I'm Shalom</h1>
-
-Just a tech fanatic on a journey through code. I specialize in crafting web applications and designing captivating websites.
+Just a tech fanatic on a journey through code.
 <br>
-🔭 **Looking for opportunities in software roles to contribute my skills and gain new experiences from exciting projects.**
+**Looking for opportunities in software roles to contribute my skills and gain new experiences from exciting projects.**
 <br>
 <br>
 🎯 **My Skills Include:**
+<br>
 - Programming Languages: Python (DSA and OOP), Go, C++ <br>
 - Front End: HTML, CSS, JavaScript, React.js, Vue.js <br>
 - Back End: Python, Flask, Django, Node.js, Express.js <br>
-- Databases: MongoDB (CRUD), MySQL basics <br>
+- Databases: Postgresql <br>
 - Others: Git basics<br>
 
 <h3 align="left">Connect with me:</h3>
