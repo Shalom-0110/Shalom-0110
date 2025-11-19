@@ -8,7 +8,7 @@ Just a tech fanatic on a journey through code.
 <br>
 - Programming Languages: Python (DSA and OOP), Go, C++ <br>
 - Front End: HTML, CSS, JavaScript, React.js, Vue.js <br>
-- Back End: Python, Flask, Django, Node.js, Express.js <br>
+- Back End: Flask, Django, Node.js, Express.js <br>
 - Databases: Postgresql <br>
 - Others: Git basics<br>
 
