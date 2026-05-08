@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋I'm Shalom</h1>
+<h1 align="center">Hi 👋 I'm Shalom</h1>
 Just a tech fanatic on a journey through code.
 <br>
 **Looking for opportunities in software roles to contribute my skills and gain new experiences from exciting projects.**
